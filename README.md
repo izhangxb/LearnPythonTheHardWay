@@ -1,0 +1,2 @@
+# LearnPythonTheHardWay
+笨办法学python示例代码
