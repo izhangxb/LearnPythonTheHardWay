@@ -68,6 +68,7 @@ def start():
         dead("You stumbled around the room untils you starve")
 
 
+# 判断是否为整数
 def isDigit(num):
     try:
         int(num)
